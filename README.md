@@ -1,5 +1,5 @@
 # Multiverse 
-######Febuary 2014 - April 2014
+######February 2014 - April 2014
  
 Multiverse is supposed to be about exploring the universe. The original inspiration was my math class at the time. We just started trigonometry, and so I wanted to make a game that used a lot of trig. After I got more into making the game, the goal became to make a peaceful experience exploring a universe, mostly inspired by the game Thomas was Alone (as you'll see, I use the song *Freedom* from the game). This project was a huge leap for me because I learned how to do more complex things with C++, and I became much better at solving problems I faced in programming because I had to spend several hours thinking about how to recreate accurate physics in the collisions between objects (I had not taken physics in school yet, and I didn't want to have to look anything up).
 
